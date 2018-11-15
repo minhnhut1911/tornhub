@@ -1,0 +1,20 @@
+{
+  "name": "tornhub",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "minhnhut19 <nhutnmps06836@fpt.edu.vn>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/minhnhut1911/tornhub",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "boostrap": "bootstrap#^4.1.3"
+  }
+}
